@@ -1,0 +1,7 @@
+{
+  "name": "Festival Cinemas",
+  "description": "Premium cinematic production and distribution company website with a clean editorial theme, featuring RONTH and upcoming Malayalam films.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
